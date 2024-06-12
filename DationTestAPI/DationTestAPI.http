@@ -1,0 +1,6 @@
+@DationTestAPI_HostAddress = http://localhost:5176
+
+GET {{DationTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
